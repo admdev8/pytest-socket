@@ -32,7 +32,7 @@ pytest = ">=3.6.3"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.0"
-pytest-cov = "^2.8.1"
+pytest-cov = "^4.0.0"
 pytest-httpbin = "^1.0"
 pytest-flake8 = "^1.0.4"
 
